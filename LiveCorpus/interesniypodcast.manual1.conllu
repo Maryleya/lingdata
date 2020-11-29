@@ -45,7 +45,7 @@
 42	есть	быть	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@via1992m#@via1992m#19.798#20.009
 43	подруга	подруга	NOUN	_	Animacy=Anim|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@via1992m#@via1992m#20.009#20.22
 44	рядом	рядом	ADV	_	_	_	_	_	words@via1992m#@via1992m#20.22#20.431
-45	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing		_	_	_	words@via1992m#@via1992m#20.431#20.642
+45	которая	который	PRON	_	Case=Nom|Gender=Fem|Number=Sing _	_	_	words@via1992m#@via1992m#20.431#20.642
 46	круто	круто	ADV	_	Degree=Pos	_	_	_	words@via1992m#@via1992m#20.642#20.853
 47	читает	читать	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	_	_	_	words@via1992m#@via1992m#20.853#21.064
 48	и...	и	CCONJ	_	_	_	_	_	words@via1992m#@via1992m#21.064#21.28
