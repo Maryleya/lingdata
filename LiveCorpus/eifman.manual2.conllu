@@ -199,7 +199,7 @@
 199	оно	оно	PRON	_	Case=Nom|Gender=Neut|Number=Sing|Person=3	_	_	_	words@bje1946m@bje1946m#265.492#265.776
 200	сейчас	сейчас	ADV	_	_	_	_	_	words@bje1946m@bje1946m#265.776#266.06
 201	становится	становиться	VERB	_	Aspect=Imp|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Mid	_	_	_	words@bje1946m@bje1946m#266.06#266.344
-202	лидирующим	лидирующий	ADJ	_	Case=Ins|Gender=Neut|Number=Sing		_	_	_	words@bje1946m@bje1946m#266.344#266.628
+202	лидирующим	лидирующий	ADJ	_	Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@bje1946m@bje1946m#266.344#266.628
 203	направлением	направление	NOUN	_	Animacy=Inan|Case=Ins|Gender=Neut|Number=Sing	_	_	_	words@bje1946m@bje1946m#266.628#266.912
 204	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#266.912#267.196
 205	и	и	CCONJ	_	_	_	_	_	words@bje1946m@bje1946m#267.196#267.48
