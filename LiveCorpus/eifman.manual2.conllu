@@ -98,7 +98,7 @@
 98	как	как	ADV	_	_	_	_	_	words@bje1946m@bje1946m#232.203#232.51
 99	бы	бы	PART	_	_	_	_	_	words@bje1946m@bje1946m#232.51#232.817
 100	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#232.817#233.124
-101	истинную	истинный	ADJ	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@bje1946m@bje1946m#233.124#233.431
+101	истинную	истинный	ADJ	_	Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@bje1946m@bje1946m#233.124#233.431
 102	ценность	ценность	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@bje1946m@bje1946m#233.431#233.738
 103	своему	свой	DET	_	Case=Dat|Gender=Neut|Number=Sing	_	_	_	words@bje1946m@bje1946m#233.738#234.045
 104	искусству	искусство	NOUN	_	Animacy=Inan|Case=Dat|Gender=Neut|Number=Sing	_	_	_	words@bje1946m@bje1946m#234.045#234.352
@@ -289,7 +289,7 @@
 289	действительно	действительно	ADV	_	_	_	_	_	words@bje1946m@bje1946m#295.95#296.28
 290	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#296.28#296.61
 291	получили	получить	VERB	_	Aspect=Perf|Mood=Ind|Number=Plur|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@bje1946m@bje1946m#296.61#296.94
-292	полную	полный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@bje1946m@bje1946m#296.94#297.27
+292	полную	полный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@bje1946m@bje1946m#296.94#297.27
 293	статисфакцию	статисфакция	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@bje1946m@bje1946m#297.27#297.6
 294	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#297.6#297.93
 295	того	то	PRON	_	Animacy=Inan|Case=Gen|Gender=Neut|Number=Sing	_	_	_	words@bje1946m@bje1946m#297.93#298.26
@@ -859,7 +859,7 @@
 859	видел	видеть	VERB	_	Aspect=Imp|Gender=Masc|Mood=Ind|Number=Sing|Tense=Past|VerbForm=Fin|Voice=Act	_	_	_	words@sb1947f@sb1947f#317.677#318.01
 860	нашу	наш	DET	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@sb1947f@sb1947f#318.01#318.343
 861	уже	уже	ADV	_	_	_	_	_	words@sb1947f@sb1947f#318.343#318.676
-862	первую	первый	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@sb1947f@sb1947f#318.676#319.009
+862	первую	первый	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@sb1947f@sb1947f#318.676#319.009
 863	с	с	ADP	_	_	_	_	_	words@sb1947f@sb1947f#319.009#319.342
 864	вами	вы	PRON	_	Case=Ins|Number=Plur|Person=2	_	_	_	words@sb1947f@sb1947f#319.342#319.675
 865	программу	программа	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@sb1947f@sb1947f#319.675#320.008
