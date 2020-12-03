@@ -675,7 +675,7 @@
 675	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#503.24#503.538
 676	вот	вот	PART	_	_	_	_	_	words@bje1946m@bje1946m#503.538#503.836
 677	конца	конец	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@bje1946m@bje1946m#503.836#504.134
-678	20	20	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	_	_	words@bje1946m@bje1946m#504.134#504.432
+678	20	20	ADJ	_	Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@bje1946m@bje1946m#504.134#504.432
 679	века	век	NOUN	_	Animacy=Inan|Case=Gen|Gender=Masc|Number=Sing	_	_	_	words@bje1946m@bje1946m#504.432#504.73
 680	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#504.73#505.028
 681	/	/	PUNCT	_	_	_	_	_	words@bje1946m@bje1946m#505.028#505.47
