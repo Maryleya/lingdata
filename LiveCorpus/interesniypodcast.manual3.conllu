@@ -931,7 +931,7 @@
 931	история	история	NOUN	_	Animacy=Inan|Case=Nom|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#270.362#270.828
 932	про...	про	ADP	_	_	_	_	_	words@ek1993m#@ek1993m#270.828#271.294
 933	/	/	PUNCT	_	_	_	_	_	words@ek1993m#@ek1993m#271.294#271.76
-934	развлекательную	развлекательный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#271.76#272.226
+934	развлекательную	развлекательный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#271.76#272.226
 935	часть	часть	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#272.226#272.692
 936	/	/	PUNCT	_	_	_	_	_	words@ek1993m#@ek1993m#272.692#273.16
 937	она	она	PRON	_	Case=Nom|Gender=Fem|Number=Sing|Person=3	_	_	_	words@ek1993m#@ek1993m#273.34#273.705
@@ -967,7 +967,7 @@
 967	вот	вот	PART	_	_	_	_	_	words@ek1993m#@ek1993m#284.27#284.525
 968	эту	этот	DET	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#284.525#284.78
 969	вот	вот	PART	_	_	_	_	_	words@ek1993m#@ek1993m#284.78#285.035
-970	побочную	побочный	ADJ	_	Animacy=Inan|Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#285.035#285.29
+970	побочную	побочный	ADJ	_	Case=Acc|Degree=Pos|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#285.035#285.29
 971	историю	история	NOUN	_	Animacy=Inan|Case=Acc|Gender=Fem|Number=Sing	_	_	_	words@ek1993m#@ek1993m#285.29#285.545
 972	/	/	PUNCT	_	_	_	_	_	words@ek1993m#@ek1993m#285.545#285.8
 973	/	/	PUNCT	_	_	_	_	_	words@ek1993m#@ek1993m#285.8#286.06
